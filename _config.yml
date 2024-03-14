@@ -259,7 +259,7 @@ kramdown:
     syntax_highlighter: rouge
 #permalink: /:year-:month-:day-:title/
 paginate: 10
-paginate_path: "/LearningNotes/page:num/"
+paginate_path: "/Index/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
