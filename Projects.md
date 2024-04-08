@@ -35,5 +35,3 @@ There are 4 sections. 1º- Process the data. 2º- Create train and test models. 
 </div>
 - **Pandas:** Data manipulation and analysis.
 - **Matplotlib:** Plotting library for Python data.
-
----
