@@ -6,7 +6,7 @@ subtitle: Software Engineer / Game Developer
 
 <span class="fa fa-graduation-cap about-icon">
 </span>
-I Obtained my MSc in **Computer Engineering, Software Development** from the Polytechnic of Coimbra, Portugal. It was a good experience.
+I Obtained my degree in **Computer Engineering, Software Development** from the Polytechnic of Coimbra, Portugal.
 
 <span class="fa fa-briefcase about-icon">
 </span>
