@@ -4,12 +4,12 @@ title: Projects
 subtitle: The test of all knowledge is experiment.
 ---
 
-#  <a href="https://github.com/DanielSantos2001/ProjetoFinal" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> 2D RPG Game</a>
+#  <a href="https://github.com/DanielSantos2001/NetworkEngineering" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Network Engineering Portfolio</a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
-Development of a RPG Game using java.
+Portofólio de implementação de laboratório de redes
 </div>
-- **LibGDX:** Framework for 2D games.
-
+- **Configurations:** VLANs, ACLs, OSPF e eBGP. 
+- **Others:** Troubleshooting and automation through python scripts.
 ---
 
 #  <a href="https://github.com/DanielSantos2001/ManageShoppingList_WebsiteWith-FrontEnd-APIBackEnd" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Shopping list manager</a>

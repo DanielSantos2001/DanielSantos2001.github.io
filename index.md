@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daniel Santos
-subtitle: Software Engineer / Game Developer
+subtitle: Software Engineer / Network Engineer
 ---
 
 <span class="fa fa-graduation-cap about-icon">
