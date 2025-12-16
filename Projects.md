@@ -6,7 +6,7 @@ subtitle: The test of all knowledge is experiment.
 
 #  <a href="https://github.com/DanielSantos2001/NetworkEngineering" style="color: inherit; text-decoration: none;" onmouseover="this.style.color='#0085A1'" onmouseout="this.style.color='inherit'"> Network Engineering Portfolio</a>
 <div style="margin-bottom: 5px; margin-top: 1rem;">
-Portofólio de implementação de laboratório de redes
+Network lab implementation portfolio
 </div>
 - **Configurations:** VLANs, ACLs, OSPF e eBGP. 
 - **Others:** Troubleshooting and automation through python scripts.
