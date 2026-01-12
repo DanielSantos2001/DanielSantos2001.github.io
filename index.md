@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daniel Santos
-subtitle: Software Engineer / Network Engineer
+subtitle: Software Engineer / Network Engineer / Cybersecurity Engineer
 ---
 
 <span class="fa fa-graduation-cap about-icon">
